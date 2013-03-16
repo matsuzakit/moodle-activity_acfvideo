@@ -13,4 +13,4 @@ The progress is below.
 * Add the instance and give the video URL .
 
 --------------------------
-This is my first modle, there may be a lot of well-done job . Please comment :)
+This is my first modle, there may be a lot of NON well-done job . I am happy, if you give me a comment :)
